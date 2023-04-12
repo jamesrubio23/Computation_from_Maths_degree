@@ -8,4 +8,4 @@ Programs made in the university.
       
   2.-SQL
   
-      -Database created in MySQL using Python.
+      -Database created in MySQL with interesting queries at the end of the main file.
