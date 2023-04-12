@@ -1,0 +1,4 @@
+- The file **arthurChristmasDefinitivo** is the one you need to run to create the database (with the corrected locations of each csv file).
+
+- We defined bruto and neto to solve the problem with Directores and Peticiones_Familiares because there was a 'loop' between Elfos and Departamento and the relation 
+  ser_Familia was reflexive.
