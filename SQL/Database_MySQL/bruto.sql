@@ -1,3 +1,4 @@
+-- languague: mysql
 CREATE DATABASE IF NOT EXISTS Bruto;
 
 USE Bruto;
