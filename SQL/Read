@@ -1,1 +1,4 @@
-Creation of a database in MySQL 
+#Creation of a database in MySQL.
+
+- Read the pdfs to undertsand what was done on each file. In the first pdf we did the entity relation scheme, the relational scheme, proved the normalization of the database
+  and wrote some requisites that we couldn't add to the scheme but we did in the sql files. In the other pdf we explain how the data was created.
