@@ -1,0 +1,14 @@
+*In the first exercise, we want to find the convex hull from 100 elements in R**2.
+
+    -Then we find the optimum number of clusters and plot Voronoi's diagram.
+    
+    -We will use Silhouette's coefficient to get the optimum number of clusters (the closer to one).
+
+*In the second exercise (practica 2), we have 1000 segments and in the second part we have 100 sets of 1 or 2 characters.
+
+    -In the first part we calculate the connected components from the union of the 1000 segments into a set.
+    
+    -In the second part, given A a set with the 26 elements from the alphabet, let it be X_1,... X_100 subsets of A u (AxA).
+     Without using the inclusion-exclusion formula we calculate the union and intersection. 
+     
+    -After that we implement the formula (takes too long for a big value but its implementation is well done).
