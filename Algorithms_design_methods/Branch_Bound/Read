@@ -1,0 +1,6 @@
+#Problems solved using the Branch and Bound technique 
+  - The respective problem is explained more deeply in each notebook.
+
+  1.-Assignment problem:
+    - Every worker can do every task in certain time (input). We have n workers and n tasks, and we need to assign each worker to a task so that the tasks get done 
+      in minimum time.

@@ -1,0 +1,14 @@
+**Programs solved with backtracking algorithm**
+
+  Because of time complexity and memory usage this brute force search algorithm is not the best to solve many problems. Even on some ocassions it may not find the optimal
+  solution. It may be better to check if Branch and Bound algorithm works better. However this algorithm technique works for this problems for low n.
+
+  1.-Sudoku
+      - Fill a board of 9x9 squares divided in sub-boards of 3x3 squares with some numbers given in some squares. The goal is to not repit a number in any row, column 
+        or sub-square.
+  
+  2.-Check if two digraphs are isomorphic. 
+      -Checks if it exists a bijective aplication between the vertices of one digraph with the other.
+  
+  3.-Knight's moves.
+      - Checks if a knight can go to every square of the board without repeting any of them.
